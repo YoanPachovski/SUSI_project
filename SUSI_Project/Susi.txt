@@ -1,0 +1,17 @@
+<SubjectName:UP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:OOP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:SDP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:SQL SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:Algebra SubjectGrade:3 SubjectStatus:NonMandatory.>
+<SubjectName:BaziDanni SubjectGrade:6 SubjectStatus:Mandatory.>
+<StudentName:Yoan StudentSpeciality:IS StudentCourse:2 StudentGroup:4 StudentFN:71891 StudentGrade:3.5 StudentStatus:recorded.>
+<SubjectName:UP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:OOP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:SDP SubjectGrade:3 SubjectStatus:Mandatory.>
+<SubjectName:SQL SubjectGrade:3 SubjectStatus:Mandatory.>
+<StudentName:Pavel StudentSpeciality:KN StudentCourse:1 StudentGroup:6 StudentFN:71817 StudentGrade:3.0 StudentStatus:recorded.>
+<SubjectName:OOP SubjectGrade:2 SubjectStatus:Mandatory.>
+<SubjectName:SPD SubjectGrade:2 SubjectStatus:Mandatory.>
+<SubjectName:Statistika SubjectGrade:2 SubjectStatus:Mandatory.>
+<StudentName:Gabriel StudentSpeciality:IS StudentCourse:1 StudentGroup:1 StudentFN:71856 StudentGrade:2.0 StudentStatus:recorded.>
+<StudentName:Pesho StudentSpeciality:INF StudentCourse:1 StudentGroup:7 StudentFN:71999 StudentGrade:-nan(ind) StudentStatus:recorded.>

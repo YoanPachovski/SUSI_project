@@ -1,0 +1,22 @@
+﻿  SUSI_Project.cpp
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\student.h(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\files.h(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\files.h(141): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\yokot\source\repos\susi_project\susi_project\files.h(293): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\yokot\source\repos\susi_project\susi_project\menu.h(310): warning C4018: '<': signed/unsigned mismatch
+  SUSI_Project.vcxproj -> C:\Users\yokot\source\repos\SUSI_Project\Debug\SUSI_Project.exe
